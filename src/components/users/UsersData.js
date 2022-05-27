@@ -1,0 +1,30 @@
+const usersData = [
+  { id: 1, name: 'John Doe', email: 'JohnDoe@gmail.com', registered: '2018/01/01', role: 'Admin', status: 'Pending' },
+  { id: 2, name: 'Samppa Nori', email: 'SamppaNori@gmail.com', registered: '2018/01/01', role: 'Employee', status: 'Active' },
+  { id: 3, name: 'Estavan Lykos', email: 'EstavanLykos@gmail.com', registered: '2018/02/01', role: 'Employee', status: 'Deactive' },
+  { id: 4, name: 'Chetan Mohamed', email: 'ChetanMohamed@gmail.com', registered: '2018/02/01', role: 'Admin', status: 'Inactive' },
+  { id: 5, name: 'Derick Maximinus', email: 'DerickMaximinus@gmail.com', registered: '2018/03/01', role: 'Member', status: 'Pending' },
+  { id: 6, name: 'Friderik Dávid', email: 'FriderikDávid@gmail.com', registered: '2018/01/21', role: 'Employee', status: 'Active' },
+  { id: 7, name: 'Yiorgos Avraamu', email: 'YiorgosAvraamu@gmail.com', registered: '2018/01/01', role: 'Employee', status: 'Active' },
+  { id: 8, name: 'Avram Tarasios', email: 'AvramTarasios@gmail.com', registered: '2018/02/01', role: 'Employee', status: 'Deactive' },
+  { id: 8, name: 'Quintin Ed', email: 'QuintinEd@gmail.com', registered: '2018/02/01', role: 'Admin', status: 'Inactive' },
+  { id: 10, name: 'Agapetus Tadeáš', email: 'AgapetusTadeáš@gmail.com', registered: '2018/01/21', role: 'Employee', status: 'Active' },
+  { id: 11, name: 'Carwyn Fachtna', email: 'CarwynFachtna@gmail.com', registered: '2018/01/01', role: 'Employee', status: 'Active' },
+  { id: 12, name: 'Nehemiah Tatius', email: 'NehemiahTatius@gmail.com', registered: '2018/02/01', role: 'Employee', status: 'Deactive' },
+  { id: 13, name: 'Ebbe Gemariah', email: 'EbbeGemariah@gmail.com', registered: '2018/02/01', role: 'Admin', status: 'Inactive' },
+  { id: 14, name: 'Eustorgios Amulius', email: 'EustorgiosAmulius@gmail.com', registered: '2018/03/01', role: 'Employee', status: 'Pending' },
+  { id: 15, name: 'Leopold Gáspár', email: 'LeopoldGáspár@gmail.com', registered: '2018/01/21', role: 'Employee', status: 'Active' },
+  { id: 16, name: 'Pompeius René', email: 'PompeiusRené@gmail.com', registered: '2018/01/01', role: 'Employee', status: 'Active' },
+  { id: 17, name: 'Paĉjo Jadon', email: 'PaĉjoJadon@gmail.com', registered: '2018/02/01', role: 'Employee', status: 'Deactive' },
+  { id: 18, name: 'Micheal Mercurius', email: 'MichealMercurius@gmail.com', registered: '2018/02/01', role: 'Employee', status: 'Inactive' },
+  { id: 19, name: 'Ganesha Dubhghall', email: 'GaneshaDubhghall@gmail.com', registered: '2018/03/01', role: 'Employee', status: 'Pending' },
+  { id: 20, name: 'Hiroto Šimun', email: 'HirotoŠimun@gmail.com', registered: '2018/01/21', role: 'Employee', status: 'Active' },
+  { id: 21, name: 'Vishnu Serghei', email: 'VishnuSerghei@gmail.com', registered: '2018/01/01', role: 'Employee', status: 'Active' },
+  { id: 22, name: 'Zbyněk Phoibos', email: 'ZbyněkPhoibos@gmail.com', registered: '2018/02/01', role: 'Employee', status: 'Deactive' },
+  { id: 23, name: 'Aulus Agmundr', email: 'AulusAgmundr@gmail.com', registered: '2018/01/01', role: 'Employee', status: 'Pending' },
+  { id: 24, name: 'Ford Prefect', email: 'FordPrefect@gmail.com', registered: '2001/05/25', role: 'Employee', status: 'Don\'t panic!' },
+  { id: 25, name: 'Enéas Kwadwo', email: 'EnéasKwadwo@gmail.com', registered: '2018/03/01', role: 'Employee', status: 'Pending' },
+
+]
+
+export default usersData
